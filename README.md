@@ -1,0 +1,2 @@
+- site: https://violet-lang.org/
+- repo: https://codeberg.org/dannypsnl/violet
